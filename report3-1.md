@@ -56,4 +56,4 @@ void star(float x, float y, float radius1, float radius2, int npoints) {<br>
 }<br>
 <br>
 ## result
-![3-1](/3-1.GIF)
+![3-1](/3-1.gif)
