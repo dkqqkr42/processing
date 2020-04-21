@@ -1,20 +1,37 @@
 # AI그래픽스기반의신기술세미나 과제
+
+각 타이틀마다 코드와 결과화면으로 구성하였습니다.
+
 ## No.1
 
-https://github.com/dkqqkr42/processing/blob/master/no1/no1.pde
+https://github.com/dkqqkr42/processing/tree/master/no1
 
-첫 주차때 배운 팬을 그리는 코드입니다. 마우스를 누르는 이벤트가 발생 시 선을 그어줍니다.
+1주차때 배운 팬을 그리는 코드입니다. 마우스를 누르는 이벤트가 발생 시 선을 그어줍니다.
+
 ## No.2
 
-https://github.com/dkqqkr42/processing/blob/master/no2/no2.pde
+https://github.com/dkqqkr42/processing/tree/master/no2
+
+2주차때 배운 전광판 만들기 입니다. 전광판의 위치에 변수 i를 넣어 1초에 60씩 커지게 해서 전광판이 왼쪽에서 오른쪽으로 서서히 움직이게끔 하였습니다.
+
 ## No.3
 
-https://github.com/dkqqkr42/processing/blob/master/no3/no3.pde
+https://github.com/dkqqkr42/processing/tree/master/no3
+
+3주차때 Processing Examples 중에 하나를 선택하고 변형하는 과제 중 Star라는 Example을 변형하였습니다. 원래의 코드에서 도형들의 색상을 1초마다 변경해보았고 중앙 도형은 1초에 각이 60개씩 늘어나며 60개 이상일시 다시 각이 한개로 바뀌게끔 하였습니다.
 
 ## No.4
 
-https://github.com/dkqqkr42/processing/blob/master/no4/no4.pde
+https://github.com/dkqqkr42/processing/tree/master/no4
+
+4주차때 배운 도형과 선분 그리기로 간단한 타이어를 만들어 보았습니다. 원을 총 3개 그려서 테두리가 될 검은 원 하나, 바탕의 흰색 원 하나, 중앙의 회색 원 하나를 그렸고 회색원에서 검은색 원 끝까지 선분을 총 8개를 그렸습니다.
 
 ## No.5
 
-https://github.com/dkqqkr42/processing/blob/master/no5/no5.pde
+https://github.com/dkqqkr42/processing/tree/master/no5
+
+5주차때 배운 PGraphics 의 예제 하나를 선택하고 변경하였습니다. 원래는 같은 크기와 색상인 원이 사각형 밖에서는 잔상이 남으면서 서서히 없어지는 예제였지만 저는 크기가 점점 커지게 하고 일정 크기 도달시 다시 크기를 초기화 해주었으며 색상 또한 계속 바뀌게 만들어 보았습니다.
+
+## 소감
+
+지금까지 배운 것들을 쭉 돌아보는 뜻깊은 시간이였습니다. 더불어 GitHub에 소스파일을 올림으로써 이번에 배운 과목이 영원히 저의 커리어로 저장된다는 것이 너무 기쁩니다. 저의 스팩에 +를 해주는 과제를 내주셔서 감사합니다!!
